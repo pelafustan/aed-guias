@@ -14,7 +14,7 @@ class Aminoacid {
 
     public:
         /* Builders */
-        Aminoacid ();
+        Aminoacid();
         Aminoacid(string name, int number, list <Atom> atoms);
 
         /* setters & getters */
