@@ -1,5 +1,5 @@
 #ifndef COORDINATE_H
-#define PERSONA_H
+#define COORDINATE_H
 
 #include <iostream>
 using namespace std;
