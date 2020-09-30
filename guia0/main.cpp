@@ -93,7 +93,7 @@ list <Protein> create_proteins() {
 
         list <Chain> chains = create_chains();
 
-        proteins.push_back(Protein(prot_name, prot_id, chains);
+        proteins.push_back(Protein(prot_name, prot_id, chains));
 
         cout << "Para agregar otra proteína ingrese 1, de lo contrario 0: ";
         cin >> answer;
